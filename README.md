@@ -1,2 +1,2 @@
 # Ola-Mundo
-primeiro repositorio versonado
+primeiro repositorio versionado
